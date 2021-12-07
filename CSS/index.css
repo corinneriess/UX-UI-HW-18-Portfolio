@@ -58,7 +58,7 @@
 }
 
 .heroBackground {
-    background-image: url(../Images/HomePageHeroImage\ copy.png);
+    background-image: url(../Images/HomePageHeroImage.png);
     background-size: cover;
     background-repeat:no-repeat;
     background-position:center;
@@ -233,6 +233,7 @@
 
 .column-two {
     order:2;
+}
     
 .column-three {
     order:3;
